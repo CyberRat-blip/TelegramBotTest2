@@ -5,7 +5,7 @@ from SimpleQIWI import *
 
 
 
-bot = telebot.TeleBot('123') # токен от бота в телеграм, создать бота можно тут - t.me/BotFather
+bot = telebot.TeleBot('6584765057:AAHgsfV7ohbraKGEyfyOsPJuqTdwJZyDREI') # токен от бота в телеграм, создать бота можно тут - t.me/BotFather
 
 
 number = '123' # номер киви
